@@ -1,5 +1,4 @@
 # Hackintosh
-Install MacOs on x86 devices
-Many Hackintosh efi files here
+黑苹果efi文件共享
 # Notice
 使用前请自动生成三码
