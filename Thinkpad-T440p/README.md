@@ -10,7 +10,7 @@
 无线网卡：Intel(R) Dual Band Wireless-AC 7260
 声卡：Realtek High Definition Audio
 # Soft Information
-OC:0.6.5
+Opencore:0.6.5
 MacOs:Big Sur
 # Dosen't work
 Bluetooth
