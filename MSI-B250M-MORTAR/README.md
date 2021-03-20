@@ -1,5 +1,5 @@
 ## 配置
-主板: msi-b250-mortar
+主板: msi-b250-mortar<br/>
 cpu: I7-7700
 内存: DDR4-2400 8G*4
 硬盘: Intel 760OP 128G
